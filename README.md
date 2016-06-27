@@ -1,0 +1,2 @@
+# DungeonOfMandomServer
+用GatewayWorker写的纯爷们地下城的服务端代码，主要是顺序匹配和游戏逻辑处理
